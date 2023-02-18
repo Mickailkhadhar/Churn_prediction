@@ -3,7 +3,7 @@ import pandas as pd
 from pandas.api.types import CategoricalDtype
 import plotly.graph_objects as go
 import seaborn as sns
-from src.analyze import Analyzer()
+from src.analyze import Analyzer
 import unittest
 class TestAnalyzer(unittest.TestCase):
 
