@@ -1,0 +1,27 @@
+# Testing dependecies
+
+nose==1.3.7
+
+# Code Coverage
+
+coverage==7.1.0
+codecov==2.1.12
+
+
+## graphs
+
+matplotlib==3.1.1
+plotly==5.13.0
+seaborn==0.12.2
+
+## dev
+
+pandas==1.3.5
+numpy==1.21.6
+
+
+#ML
+
+sklearn==0.22.2.post1
+imblearn==0.5.0
+xgboost==1.0.2
